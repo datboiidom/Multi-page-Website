@@ -1,0 +1,19 @@
+Body{
+    background-color: darkred;
+    font-family: Arial, Helvetica, sans-serif
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: honeydew;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blanchedalmond;
+}
+a{
+    color: blanchedalmond;
+}
+
+.more-info{
+    background-color: tomato;
+}
